@@ -3215,7 +3215,3 @@ display: none;
 display: inline-block;
 }
 }
-
-* {
-text-transform: capitalize !important;
-}
